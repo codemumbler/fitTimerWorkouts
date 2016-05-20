@@ -1,0 +1,39 @@
+{
+  "version": 1.0,
+  "name": "Tabata sprint intervals",
+  "transition-duration": 10000,
+  "poses": [
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    },
+    {
+      "name": "Sprint",
+      "duration": 20000
+    }
+  ]
+}
